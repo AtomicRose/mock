@@ -45,13 +45,13 @@
     "32.50d08ab9870e6a72933f.js",
     "33.489008adc19780343240.js",
     "34.be69897fa26fab290d28.js",
-    "app.3f9f1f11db407715ee33.js",
-    "vendor.e00c2f3a244112e73515.js",
-    "common.3f9f1f11db407715ee33.css"
+    "app.52b7e4ca1543ec8c7127.js",
+    "vendor.174f59b50687045b6cf7.js",
+    "common.52b7e4ca1543ec8c7127.css"
   ],
   "initial": [
-    "vendor.e00c2f3a244112e73515.js",
-    "app.3f9f1f11db407715ee33.js"
+    "vendor.174f59b50687045b6cf7.js",
+    "app.52b7e4ca1543ec8c7127.js"
   ],
   "async": [
     "14.c16c5ce705cff9f16410.js",
